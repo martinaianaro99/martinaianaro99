@@ -1,4 +1,4 @@
-Hi, I'm Martina Ianaro 👋
+# Hi, I'm Martina Ianaro 👋
 
 🎓 **PhD Researcher in Computer Science** @ Alma Mater Studiorum – University of Bologna  
 🔬 PNRR-funded research in collaboration with **SACMI Imola** and **CINECA**  
@@ -35,13 +35,12 @@ infra      = ["SLURM", "Docker", "Git", "Linux", "GPU clusters"]
 |--------|-------------|-------|
 | **Multimodal RAG for Industrial KM** | RAG system integrating M-LLMs for technical documentation management | Python · LangChain · Qdrant |
 | **PictoViLT** | Vision-Language Transformer for Augmentative & Alternative Communication (AAC) | PyTorch · HuggingFace |
-| **Multimodal Virtual Tutor** | AI-driven tutoring prototype for programming education *(manuscript in preparation)* | Python · M-LLMs |
+| **Multimodal Virtual Tutor** | AI-driven tutoring prototype for programming education | Python · M-LLMs |
 
 ---
 
 ## 📚 Academic Activities
 
-- 📝 Reviewer — **ACM SIGCSE Technical Symposium 2026**
 - 🏫 Teaching Assistant — Algorithms & Data Structures @ UniBo (2023–present)
 - 🎤 Outreach speaker on LLMs for high school students and young learners
 
@@ -49,8 +48,7 @@ infra      = ["SLURM", "Docker", "Git", "Linux", "GPU clusters"]
 
 ## 🔗 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Martina_Ianaro-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/martina-ianaro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Martina_Ianaro-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/martina-ianaro-81578a291/)
 [![UniBO](https://img.shields.io/badge/UniBO-Profile-red?style=flat)](https://www.unibo.it/sitoweb/martina.ianaro3)
 
-📩 Open to research collaborations in **Multimodal AI · RAG · NLP**
-E.md…]()
+📩 Open to research collaborations, visiting programs, and academic exchanges in **Multimodal AI · RAG · NLP**
