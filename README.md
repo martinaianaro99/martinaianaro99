@@ -1,8 +1,7 @@
 # Hi, I'm Martina Ianaro 👋
 
 🎓 **PhD Researcher in Computer Science** @ Alma Mater Studiorum – University of Bologna  
-🔬 PNRR-funded research in collaboration with **SACMI Imola** and **CINECA**  
-🌍 Ex Visiting Researcher @ **NOVA LINCS, NOVA University of Lisbon** (Jun–Dec 2025)
+🔬 PNRR-funded research in collaboration with **SACMI Imola** and **CINECA** 
 
 ---
 
