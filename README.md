@@ -1,53 +1,85 @@
-# Hi, I'm Martina Ianaro 👋
+# Martina Ianaro, PhD 👋
 
-🎓 **PhD Researcher in Computer Science** @ Alma Mater Studiorum – University of Bologna  
-🔬 PNRR-funded research in collaboration with **SACMI Imola** and **CINECA** 
+PhD Researcher in Multimodal Artificial Intelligence  
+@ Alma Mater Studiorum – University of Bologna  
 
----
-
-## 🧠 Research Interests
-
-My research focuses on integrating **Multimodal Large Language Models (M-LLMs)** into **Retrieval-Augmented Generation (RAG)** systems for technical knowledge management in industrial settings.
-
-- 🖼️ **Vision-Language Models** for document analysis and technical KM
-- ⚡ **RAG Systems** for multimodal retrieval and generation
-- 💬 **Prompt Engineering** strategies for multimodal input sequences
-- 🎓 **AI-driven Educational Technologies** — virtual tutoring for programming education
-- 🔍 **Multimodal Evaluation** frameworks for sequential visual content
+PNRR-funded research in collaboration with industrial and HPC partners.
 
 ---
 
-## 🛠️ Tech Stack
+## 🔬 Research Focus
 
-```python
-languages  = ["Python", "Java", "R", "SQL"]
-frameworks = ["PyTorch", "TensorFlow", "Hugging Face Transformers"]
-llm_tools  = ["LangChain", "OpenAI API", "Qdrant", "MongoDB"]
-infra      = ["SLURM", "Docker", "Git", "Linux", "GPU clusters"]
-```
+I investigate how **Multimodal Large Language Models (M-LLMs)** can be integrated into **Retrieval-Augmented Generation (RAG)** systems for technical knowledge management and AI-assisted education.
 
----
+My work combines:
 
-## 📌 Selected Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| **Multimodal RAG for Industrial KM** | RAG system integrating M-LLMs for technical documentation management | Python · LangChain · Qdrant |
-| **PictoViLT** | Vision-Language Transformer for Augmentative & Alternative Communication (AAC) | PyTorch · HuggingFace |
-| **Multimodal Virtual Tutor** | AI-driven tutoring prototype for programming education | Python · M-LLMs |
+- Vision-Language Models
+- Multimodal Retrieval Architectures
+- Prompt Engineering for structured multimodal reasoning
+- Automated Evaluation of Multimodal Systems
+- Industrial AI deployment scenarios
 
 ---
 
-## 📚 Academic Activities
+## 🧠 Current Research Directions
 
-- 🏫 Teaching Assistant — Algorithms & Data Structures @ UniBo (2023–present)
-- 🎤 Outreach speaker on LLMs for high school students and young learners
+• Multimodal RAG for industrial documentation  
+• Evaluation frameworks for sequential visual reasoning  
+• Prompt optimization strategies (CoT, ToT, self-consistency)  
+• AI-driven virtual tutors for programming education  
 
 ---
 
-## 🔗 Let's connect
+## 🛠 Technical Stack
+
+**Languages**  
+Python · Java · R · SQL  
+
+**ML / DL Frameworks**  
+PyTorch · TensorFlow · Hugging Face  
+
+**LLM & Retrieval Tools**  
+LangChain · Vector Databases · OpenAI API  
+
+**Research Infrastructure**  
+SLURM · Docker · Linux · GPU clusters  
+
+---
+
+## 📌 Research-Oriented Repositories
+
+Selected repositories will progressively include:
+
+- Multimodal RAG Framework (in development)  
+- Multimodal Evaluation Lab  
+- Prompt Engineering Experiments  
+
+Code related to submitted manuscripts will be released upon publication.
+
+---
+## 🎓 Academic Engagement
+
+**Teaching Assistant — Algorithms & Data Structures**  
+Alma Mater Studiorum – University of Bologna  
+
+Contributing to undergraduate teaching activities and student supervision.  
+
+Outreach speaker on Large Language Models and AI literacy initiatives for high school students and early learners.
+
+---
+
+## 🤝 Research Collaboration
+
+I am open to research collaborations, visiting positions, and academic exchanges in:
+
+**Multimodal AI · Retrieval-Augmented Generation · Vision-Language Models · AI for Education**
+
+---
+
+## 🔗 Academic & Professional Profiles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Martina_Ianaro-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/martina-ianaro-81578a291/)
-[![UniBO](https://img.shields.io/badge/UniBO-Profile-red?style=flat)](https://www.unibo.it/sitoweb/martina.ianaro3)
 
-📩 Open to research collaborations, visiting programs, and academic exchanges in **Multimodal AI · RAG · NLP**
+[![University Profile](https://img.shields.io/badge/University_of_Bologna-Academic_Profile-red?style=flat)](https://www.unibo.it/sitoweb/martina.ianaro3)
+
+📧 martina.ianaro3 [at] unibo.it
